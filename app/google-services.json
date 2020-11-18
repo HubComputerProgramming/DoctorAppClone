@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "854995181356",
+    "firebase_url": "https://doctorandpatientclone.firebaseio.com",
+    "project_id": "doctorandpatientclone",
+    "storage_bucket": "doctorandpatientclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854995181356:android:2794e1f975803432c15689",
+        "android_client_info": {
+          "package_name": "com.infoskillstechnology.doctorappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854995181356-5p246d1s76s0nbflvolcbhprs2t4ko01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIGQtPAU-W-IHUHYbJxie_TZqAqnTewqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854995181356-5p246d1s76s0nbflvolcbhprs2t4ko01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

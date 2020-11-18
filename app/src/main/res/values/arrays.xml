@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="langarray">
+        <item>English</item>
+        <item>Spanish</item>
+    </string-array>
+    <string-array name="currencyarray">
+        <item>USD</item>
+        <item>DIRHAM</item>
+    </string-array>
+</resources>
